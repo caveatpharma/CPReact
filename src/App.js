@@ -47,7 +47,7 @@ function App() {
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav text-uppercase ml-auto">
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#products">Products</a>
+            <a className="nav-link js-scroll-trigger" href="#products">services</a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
