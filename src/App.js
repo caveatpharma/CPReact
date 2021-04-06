@@ -80,7 +80,7 @@ function App() {
             <p className="companyName">
               CAVEAT PHARMA
             </p>
-            <p>Quality Pharmecutical Products since 1947.</p>
+            <p>Quality Pharmecutical Products since 2007.</p>
           </div>
         {/* <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#products">Tell Me More</a> */}
       </div>
